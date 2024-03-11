@@ -1,0 +1,23 @@
+@media screen and (max-width: 668px) {
+    .subscribe_section {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .card {
+        width: 80vw;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .card img {
+        margin-bottom: 20px;
+    }
+    .card button {
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width: 430px) {
+    .navbar ul {
+        gap: 12px;
+    }
+}
